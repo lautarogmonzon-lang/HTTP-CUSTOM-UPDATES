@@ -1,0 +1,9 @@
+CUSTOM SERVERS PRO
+
+V1 - 19/06/2026
+- Lanzamiento inicial.
+- Servidor Premium Personal.
+- Configuración protegida con HWID.
+
+V2 - Próximamente
+- ...
