@@ -5,5 +5,27 @@ V1 - 19/06/2026
 - Servidor Premium Personal.
 - Configuración protegida con HWID.
 
-V2 - Próximamente
-- ...
+V3 - 15/09/2026
+VERSIÓN v3.5.1 [P6]
+
+Fecha de lanzamiento: 15/09/2026
+
+Resumen
+
+Actualización orientada a optimizar la distribución de versiones, mejorar la detección de servicios activos y renovar elementos visuales del sistema.
+
+Cambios implementados
+
+• Nuevo sistema de distribución de actualizaciones.
+
+• Mejoras en el sistema de distribución de versiones.
+
+• Detección inteligente de servicio activo.
+
+• Actualización del panel de información.
+
+• Renovación del sistema de banners.
+
+• Correcciones menores y optimizaciones generales.
+
+Expira : 31 de octubre de 2026, 23:59
