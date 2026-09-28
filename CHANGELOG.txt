@@ -29,3 +29,35 @@ Cambios implementados
 • Correcciones menores y optimizaciones generales.
 
 Expira : 31 de octubre de 2026, 23:59
+
+VERSIÓN v3.5.2 [P8]
+
+Fecha de lanzamiento: 27/09/2026
+
+Resumen
+
+Actualización enfocada en mejorar la compatibilidad entre protocolos, optimizar los mecanismos de validación y ampliar las herramientas de diagnóstico de conexiones.
+
+Cambios implementados
+
+• Incorporación de opciones avanzadas para gestión SSH.
+
+• Optimización del sistema de comprobación DNS.
+
+• Soporte optimizado para compresión SSH.
+
+• Mejoras en TCP de baja latencia (TCP sin demora).
+
+• Nuevo registro detallado de conexiones y destinos.
+
+• Actualización del sistema de banners e información de servicio.
+
+• Correcciones menores y mejoras generales.
+
+
+Estado
+
+🟢 🟡 - Versión estable, aún no incorporado a la app.
+
+Expira : 30 de noviembre de 2026, 23:59
+Name file: CMSVPCore
